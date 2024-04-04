@@ -1,6 +1,7 @@
 #include <iostream>
 
+using std::cout, std::cin, std::string;
+
 int main() {
-    std::cout << "Hello world!\n";
     return 0;
 }
